@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,15 +70,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "BookManager\\Repositories\\BookRepository.cs",
-              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "BookManager\\Repositories\\BookRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wDgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BookManager\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BookManager\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwDsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T09:16:20.824Z",
+              "WhenOpened": "2024-09-20T09:34:04.242Z",
               "EditorCaption": ""
             },
             {
@@ -96,15 +96,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "BookManager\\Controllers\\ProductsController.cs",
-              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Controllers\\ProductsController.cs*",
-              "RelativeToolTip": "BookManager\\Controllers\\ProductsController.cs*",
-              "ViewState": "AgIAACkAAAAAAAAAAAAYwEAAAAADAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookManager\\Repositories\\BookRepository.cs",
+              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BookManager\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T09:34:04.242Z",
+              "WhenOpened": "2024-09-20T09:16:20.824Z",
               "EditorCaption": ""
             },
             {

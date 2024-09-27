@@ -255,3 +255,10 @@ E:\Programs\Source\repos\BookManagerWebApiNetCore8\BookManager\BookManager\obj\D
 E:\Programs\Source\repos\BookManagerWebApiNetCore8\BookManager\BookManager\obj\Debug\net8.0\BookManager.RazorAssemblyInfo.cs
 E:\Programs\Source\repos\BookManagerWebApiNetCore8\BookManager\BookManager\bin\Debug\net8.0\AutoMapper.dll
 E:\Programs\Source\repos\BookManagerWebApiNetCore8\BookManager\BookManager\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Programs\Source\repos\BookManagerWebApiNetCore8\BookManager\BookManager\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Programs\Source\repos\BookManagerWebApiNetCore8\BookManager\BookManager\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Programs\Source\repos\BookManagerWebApiNetCore8\BookManager\BookManager\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Programs\Source\repos\BookManagerWebApiNetCore8\BookManager\BookManager\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Programs\Source\repos\BookManagerWebApiNetCore8\BookManager\BookManager\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\Programs\Source\repos\BookManagerWebApiNetCore8\BookManager\BookManager\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Programs\Source\repos\BookManagerWebApiNetCore8\BookManager\BookManager\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

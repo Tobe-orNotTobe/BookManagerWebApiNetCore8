@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,36 +27,52 @@
       "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\helpers\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\helpers\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\models\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\models\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\data\\bookmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\data\\bookmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\bookmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\bookmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\helpers\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\helpers\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\bookmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -49,6 +81,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\migrations\\20240920082718_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\migrations\\20240920082718_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|e:\\programs\\source\\repos\\bookmanagerwebapinetcore8\\bookmanager\\bookmanager\\migrations\\20240927080727_addidentityauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AFBC00-567F-48FE-9D25-087A9185CFCC}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\migrations\\20240927080727_addidentityauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,13 +106,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "BookManager\\Controllers\\ProductsController.cs",
               "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "BookManager\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAwwDsAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwDgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T09:34:04.242Z",
               "EditorCaption": ""
@@ -84,56 +120,201 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\appsettings.json",
+              "RelativeDocumentMoniker": "BookManager\\appsettings.json",
+              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\appsettings.json",
+              "RelativeToolTip": "BookManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T08:18:10.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Program.cs",
               "RelativeDocumentMoniker": "BookManager\\Program.cs",
               "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Program.cs",
               "RelativeToolTip": "BookManager\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAArwBoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T08:19:49.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "BookManager\\Repositories\\AccountRepository.cs",
+              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "BookManager\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:14:30.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookManager\\Controllers\\BooksController.cs",
+              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookManager\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwDcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:39:46.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "BookManager\\Controllers\\AccountsController.cs",
+              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "BookManager\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIAzwBUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:30:42.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "BookManager\\Repositories\\BookRepository.cs",
               "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Repositories\\BookRepository.cs",
               "RelativeToolTip": "BookManager\\Repositories\\BookRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wDgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T09:16:20.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BookModel.cs",
-              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Models\\BookModel.cs",
-              "RelativeDocumentMoniker": "BookManager\\Models\\BookModel.cs",
-              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Models\\BookModel.cs",
-              "RelativeToolTip": "BookManager\\Models\\BookModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "BookManager\\Repositories\\IAccountRepository.cs",
+              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "BookManager\\Repositories\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T09:05:11.564Z"
+              "WhenOpened": "2024-09-27T08:12:18.387Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Repositories\\IBookRepository.cs",
               "RelativeDocumentMoniker": "BookManager\\Repositories\\IBookRepository.cs",
               "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Repositories\\IBookRepository.cs",
               "RelativeToolTip": "BookManager\\Repositories\\IBookRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T09:02:19.701Z"
+              "WhenOpened": "2024-09-20T09:02:19.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "SignUpModel.cs",
+              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Models\\SignUpModel.cs",
+              "RelativeDocumentMoniker": "BookManager\\Models\\SignUpModel.cs",
+              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Models\\SignUpModel.cs",
+              "RelativeToolTip": "BookManager\\Models\\SignUpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:10:24.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookManagerContext.cs",
+              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Data\\BookManagerContext.cs",
+              "RelativeDocumentMoniker": "BookManager\\Data\\BookManagerContext.cs",
+              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Data\\BookManagerContext.cs",
+              "RelativeToolTip": "BookManager\\Data\\BookManagerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:15:43.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignInModel.cs",
+              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Models\\SignInModel.cs",
+              "RelativeDocumentMoniker": "BookManager\\Models\\SignInModel.cs",
+              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Models\\SignInModel.cs",
+              "RelativeToolTip": "BookManager\\Models\\SignInModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:09:28.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BookManager\\Data\\ApplicationUser.cs",
+              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "BookManager\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:27:02.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240927080727_AddIdentityAuthentication.cs",
+              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Migrations\\20240927080727_AddIdentityAuthentication.cs",
+              "RelativeDocumentMoniker": "BookManager\\Migrations\\20240927080727_AddIdentityAuthentication.cs",
+              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Migrations\\20240927080727_AddIdentityAuthentication.cs",
+              "RelativeToolTip": "BookManager\\Migrations\\20240927080727_AddIdentityAuthentication.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAQwBIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:07:27.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookManager.http",
+              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\BookManager.http",
+              "RelativeDocumentMoniker": "BookManager\\BookManager.http",
+              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\BookManager.http",
+              "RelativeToolTip": "BookManager\\BookManager.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-27T07:59:54.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookManager\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookManager\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T08:01:56.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ApplicationMapper.cs",
               "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Helpers\\ApplicationMapper.cs",
               "RelativeDocumentMoniker": "BookManager\\Helpers\\ApplicationMapper.cs",
@@ -141,47 +322,38 @@
               "RelativeToolTip": "BookManager\\Helpers\\ApplicationMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T09:06:53.076Z"
+              "WhenOpened": "2024-09-20T09:06:53.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BookManagerContext.cs",
-              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Data\\BookManagerContext.cs",
-              "RelativeDocumentMoniker": "BookManager\\Data\\BookManagerContext.cs",
-              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Data\\BookManagerContext.cs",
-              "RelativeToolTip": "BookManager\\Data\\BookManagerContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "BookManager\\Models\\BookModel.cs",
+              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Models\\BookModel.cs",
+              "RelativeToolTip": "BookManager\\Models\\BookModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T08:15:43.765Z"
+              "WhenOpened": "2024-09-20T09:05:11.564Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "BookManager\\Controllers\\BooksController.cs",
-              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "BookManager\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswFwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T08:39:46.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "Book.cs",
               "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Data\\Book.cs",
               "RelativeDocumentMoniker": "BookManager\\Data\\Book.cs",
               "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Data\\Book.cs",
               "RelativeToolTip": "BookManager\\Data\\Book.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwBEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T08:12:11.598Z"
+              "WhenOpened": "2024-09-20T08:12:11.598Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "20240920082718_DbInit.cs",
               "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\Migrations\\20240920082718_DbInit.cs",
               "RelativeDocumentMoniker": "BookManager\\Migrations\\20240920082718_DbInit.cs",
@@ -189,31 +361,21 @@
               "RelativeToolTip": "BookManager\\Migrations\\20240920082718_DbInit.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T08:27:18.2Z"
+              "WhenOpened": "2024-09-20T08:27:18.2Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\appsettings.json",
-              "RelativeDocumentMoniker": "BookManager\\appsettings.json",
-              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\appsettings.json",
-              "RelativeToolTip": "BookManager\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-20T08:18:10.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "BookManager.csproj",
               "DocumentMoniker": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\BookManager.csproj",
               "RelativeDocumentMoniker": "BookManager\\BookManager.csproj",
-              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\BookManager.csproj",
-              "RelativeToolTip": "BookManager\\BookManager.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\Programs\\Source\\repos\\BookManagerWebApiNetCore8\\BookManager\\BookManager\\BookManager.csproj*",
+              "RelativeToolTip": "BookManager\\BookManager.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-20T08:08:41.022Z"
+              "WhenOpened": "2024-09-20T08:08:41.022Z",
+              "EditorCaption": ""
             }
           ]
         }

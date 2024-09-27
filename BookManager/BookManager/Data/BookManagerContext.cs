@@ -1,8 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 
 namespace BookManager.Data
 {
-	public class BookManagerContext : DbContext
+	public class BookManagerContext : IdentityDbContext<ApplicationUser>
 	{
 		public BookManagerContext(DbContextOptions<BookManagerContext> opt) : base(opt) { }
 
