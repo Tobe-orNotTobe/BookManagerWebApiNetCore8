@@ -1,4 +1,5 @@
-﻿using BookManager.Models;
+﻿using BookManager.Helpers;
+using BookManager.Models;
 using BookManager.Repositories;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
@@ -18,6 +19,7 @@ namespace BookManager.Controllers
 		}
 
 		[HttpGet]
+		[Authorize]
 		public async Task<IActionResult> GetAllBooks()
 		{
 			try
@@ -31,6 +33,7 @@ namespace BookManager.Controllers
 		}
 
 		[HttpGet("id")]
+		[Authorize]
 		public async Task<IActionResult> GetBookById(int id)
 		{
 			var book = await _bookRepo.GetBookAsync(id);
@@ -38,7 +41,7 @@ namespace BookManager.Controllers
 		}
 
 		[HttpPost]
-		[Authorize]
+		[Authorize(Roles = AppRole.Admin)]
 		public async Task<IActionResult> AddnewBook(BookModel model)
 		{
 			try
@@ -55,6 +58,7 @@ namespace BookManager.Controllers
 
 		[HttpPut("{id}")]
 		[Authorize]
+		[Authorize(Roles = AppRole.Admin)]
 		public async Task<IActionResult> UpdateBook(int id, BookModel model)
 		{
 			if(id != model.Id)
@@ -67,6 +71,7 @@ namespace BookManager.Controllers
 
 		[HttpDelete("id")]
 		[Authorize]
+		[Authorize(Roles = AppRole.Admin)]
 		public async Task<IActionResult> DeleteBook(int id)
 		{
 			await _bookRepo.DeleteBookAsync(id); return Ok();

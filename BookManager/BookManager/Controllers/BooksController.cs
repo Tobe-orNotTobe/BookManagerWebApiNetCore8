@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using BookManager.Data;
 using Microsoft.AspNetCore.Authorization;
+using BookManager.Helpers;
 
 namespace BookManager.Controllers
 {
@@ -23,6 +24,7 @@ namespace BookManager.Controllers
 
         // GET: api/Books
         [HttpGet]
+        [Authorize]
         public async Task<ActionResult<IEnumerable<Book>>> GetBooks()
         {
             return await _context.Books!.ToListAsync();
@@ -30,6 +32,7 @@ namespace BookManager.Controllers
 
         // GET: api/Books/5
         [HttpGet("{id}")]
+        [Authorize]
         public async Task<ActionResult<Book>> GetBook(int id)
         {
             var book = await _context.Books!.FindAsync(id);
@@ -45,7 +48,7 @@ namespace BookManager.Controllers
         // PUT: api/Books/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
-		[Authorize]
+		[Authorize(Roles = AppRole.Admin)]
 		public async Task<IActionResult> PutBook(int id, Book book)
         {
             if (id != book.Id)
@@ -77,7 +80,7 @@ namespace BookManager.Controllers
         // POST: api/Books
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-		[Authorize]
+		[Authorize(Roles = AppRole.Admin)]
 		public async Task<ActionResult<Book>> PostBook(Book book)
         {
             _context.Books!.Add(book);
@@ -88,7 +91,7 @@ namespace BookManager.Controllers
 
         // DELETE: api/Books/5
         [HttpDelete("{id}")]
-		[Authorize]
+		[Authorize(Roles = AppRole.Admin)]
 		public async Task<IActionResult> DeleteBook(int id)
         {
             var book = await _context.Books!.FindAsync(id);
